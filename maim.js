@@ -1,0 +1,1 @@
+alert('GOMU GOMU NO')
